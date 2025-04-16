@@ -140,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 
-Project Link: [https://github.com/yourusername/stock-analysis-dashboard](https://github.com/yourusername/stock-analysis-dashboard)
+Project Link: https://github.com/sriraghavi-raja/Live--Stock-Prediction
 
 ## Acknowledgments
 
