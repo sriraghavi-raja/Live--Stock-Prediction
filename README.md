@@ -83,7 +83,7 @@ The dashboard can be configured through the sidebar:
 - Select which technical indicators to display
 - Set auto-refresh intervals
 
-![Configuration Screenshot](screenshots/configuration.png) *Replace with actual screenshot*
+
 
 ## Usage Examples
 
