@@ -1,9 +1,10 @@
 # Advanced Stock Analysis Dashboard
 
 ## Overview
-The Advanced Stock Analysis Dashboard is a comprehensive web application built with Streamlit that provides real-time stock market data visualization, technical analysis indicators, sentiment analysis from social media, and predictive analytics. This dashboard is designed for traders, investors, and financial analysts who need a powerful yet intuitive tool for market analysis.
+The Advanced Stock Analysis Dashboard is a comprehensive web application built with Streamlit that provides real-time stock market data visualization, technical analysis indicators and predictive analytics. This dashboard is designed for traders, investors, and financial analysts who need a powerful yet intuitive tool for market analysis.
 
-![Dashboard Screenshot](screenshots/main-dashboard.png) *Replace with actual screenshot*
+![image](https://github.com/user-attachments/assets/c579fa2b-4304-42d2-962b-692cbfc3b9f3)
+
 
 ## Key Features
 
@@ -12,35 +13,32 @@ The Advanced Stock Analysis Dashboard is a comprehensive web application built w
 - Detailed stock information including fundamentals
 - Watchlist functionality for tracking favorite stocks
 
-![Market Data Screenshot](screenshots/market-data.png) *Replace with actual screenshot*
+![image](https://github.com/user-attachments/assets/caba31cd-575c-4476-98e7-65d9cd679251)
+
 
 ### 📊 Technical Analysis
 - Multiple technical indicators (SMA, EMA, Bollinger Bands, RSI, MACD)
 - Customizable chart views with different time intervals
 - Technical signals and trend analysis
 
-![Technical Analysis Screenshot](screenshots/technical-analysis.png) *Replace with actual screenshot*
+![newplot](https://github.com/user-attachments/assets/7ccba991-b1c4-483f-9a5d-e48df6f42341)
 
-### 🧠 Sentiment Analysis
-- Twitter sentiment tracking for stocks
-- Sentiment visualization with gauge charts
-- Sentiment-based trading signals
-
-![Sentiment Analysis Screenshot](screenshots/sentiment-analysis.png) *Replace with actual screenshot*
 
 ### 🔮 Predictive Analytics
 - Price forecasting for next 5 periods
 - Historical performance analysis
 - Volatility indicators
 
-![Predictions Screenshot](screenshots/predictions.png) *Replace with actual screenshot*
+![image](https://github.com/user-attachments/assets/54464bd4-d91a-49df-a915-e5e7ce7a8ebd)
+
 
 ### 📰 News Integration
 - Latest news articles related to tracked stocks
 - News sentiment indicators
 - Direct links to full articles
 
-![News Screenshot](screenshots/news.png) *Replace with actual screenshot*
+![image](https://github.com/user-attachments/assets/60ba4fe4-f515-4c27-ac1b-44a76279f550)
+
 
 ## Technology Stack
 
@@ -48,7 +46,6 @@ The Advanced Stock Analysis Dashboard is a comprehensive web application built w
 - **Data Processing**: Pandas, NumPy
 - **Technical Analysis**: TA-Lib (via `ta` library)
 - **Market Data**: Yahoo Finance API (via `yfinance`)
-- **Sentiment Analysis**: TextBlob (NLP)
 - **Caching**: LRU caching for performance optimization
 
 ## Installation
@@ -142,7 +139,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
 Project Link: [https://github.com/yourusername/stock-analysis-dashboard](https://github.com/yourusername/stock-analysis-dashboard)
 
